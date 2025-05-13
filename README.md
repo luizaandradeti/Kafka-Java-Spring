@@ -9,6 +9,16 @@ cd Kafka-Java-Spring
 docker-compose up -d
 ````
 
+_"Kafdrop is a web UI for viewing Kafka topics and browsing consumer groups. The tool displays information such as brokers, topics, partitions, consumers, and lets you view messages."(https://github.com/obsidiandynamics/kafdrop)_
+
 - http://localhost:19000/
 
 ![alt](imgs/Kafdrop.png)
+
+> [!NOTE]
+>
+> Contexto de engenharia de software.
+>
+> https://github.com/obsidiandynamics/kafdrop
+> https://www.confluent.io/
+> 
