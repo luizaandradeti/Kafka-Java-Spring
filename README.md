@@ -15,6 +15,8 @@ _"Kafdrop is a web UI for viewing Kafka topics and browsing consumer groups. The
 
 ![alt](imgs/Kafdrop.png)
 
+![alt](imgs/kafka-spring.png)
+
 > [!NOTE]
 >
 > Contexto de engenharia de software.
