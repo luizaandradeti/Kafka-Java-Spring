@@ -1,5 +1,8 @@
 "# Kafka-Estudos" 
 
+[![Generic badge](https://img.shields.io/badge/status-developing-yellow.svg)](/#/)
+
+This material is study personal.
 
 ## 1 - Run a docker-compose
 
